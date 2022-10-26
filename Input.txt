@@ -1,0 +1,32 @@
+
+
+SOCCER TEAM
+-----------------------------------------------
+
+   NAME               NUMBER          PTS SCORED
+
+  Victor                 7                   5
+
+    Sanz                 2                   3
+
+    Hall                 4                   4
+
+ Merino                 16                  10
+
+ Alberto                 6                   1
+
+ Iniesta                 8                   2
+
+    Xavi                36                   0
+
+   Johan                14                  11
+
+   Pedri                20                   1
+
+   Lewan                 9                   0
+
+   Messi                10                   9
+
+Busquets                 5                   0
+
+-----------------------------------------------
