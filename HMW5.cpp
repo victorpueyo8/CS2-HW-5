@@ -1,5 +1,6 @@
 // Victor Pueyo 
 // Homework 5
+// Soccer scores
 
 #include<iostream>
 #include <iomanip>
